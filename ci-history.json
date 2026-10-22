@@ -1,0 +1,8 @@
+{"updated":"2026-10-22T10:22:54Z",
+"ci":[],
+"sim":[
+{"id":39761777714,"at":"2026-10-22T10:15:49Z","sha":"0dd6797c1","title":"Continue Watching: the caption names the episode (S3 \u00b7 E4 \u00b7 18m left) and is always shown","pr":912,"conclusion":"failure","attempt":1,"jobs":{"Windows launcher syntax":22,"Linux simulator build + launch":411},"failed":["macOS simulator build + launch","macOS tests against bundled FFmpeg and ASS"]}
+],
+"nightly":[],
+"cancelled":{},
+"daily":[]}
